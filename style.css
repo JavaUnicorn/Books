@@ -1,45 +1,68 @@
-body{
- text-align:center;
- background-color: #FFDAB9;
- border: 8px solid black;
- margin-left: 115px;
- margin-right: 115px;
- padding-bottom: 15px;
+.body1{
+  text-align:center;
+  background-color: #FFDAB9;
+  border: 8px solid black;
+  margin-left: 115px;
+  margin-right: 115px;
+  padding-bottom: 15px;
 }
 .title{
- border: 5px solid black;
- margin-left: 500px;
- margin-right: 500px;
- padding: 10px;
+  border: 5px solid black;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
 }
 .outer{
- margin-right: 20px;
- padding: 5px;
+  margin-right: 20px;
+  padding: 5px;
 }
 .inner{
- margin-left: 20px;
- padding: 5px;
+  margin-left: 20px;
+  padding: 5px;
 }
 .sensing{
- margin-right: 12px;
- padding: 5px;
+  margin-right: 12px;
+  padding: 5px;
 }
 .intuition{
- margin-left: 12px;
- padding: 5px;
+  margin-left: 12px;
+  padding: 5px;
 }
 .thinking{
- margin-right: 16px;
- padding: 5px;
+  margin-right: 16px;
+  padding: 5px;
 }
 .feeling{
- margin-left: 16px;
- padding: 5px;
+  margin-left: 16px;
+  padding: 5px;
 }
 .judging{
- padding: 5px;
+  padding: 5px;
 }
 .percieving{
- margin-left: 30px;
- padding: 5px;
+  margin-left: 30px;
+  padding: 5px;
+}
+.body2{
+  text-align: center;
+}
+.header{
+  border: 3px solid black;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+}
+img{
+  width: 400px;
+  height: 400px;
+  margin-bottom: 70px;
+}
+.results{
+  padding: 5px;
+}
+.content{
+width: 49%;
+margin-left: 25%;
+margin-right: 25%;
+display: block;
 }
